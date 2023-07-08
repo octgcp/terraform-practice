@@ -1,0 +1,21 @@
+/*terraform {
+  required_providers {
+    github = {
+      source  = "integrations/github"
+      version = "~> 5.0"
+    }
+  }
+}
+
+# Configure the GitHub Provider
+provider "github" {
+  token = "add the git token"
+}
+
+resource "github_repository" "ivantest" {
+  name        = "ivantest"
+  description = "My awesome codebase"
+
+  visibility = "public"
+
+}*/
