@@ -1,2 +1,3 @@
-editing it after pushing it to remote 
-editing it online from the git interface
+Editing it from branch test3
+
+Hi trying to learn editing
