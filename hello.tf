@@ -1,2 +1,1 @@
-editing it after pushing it to remote 
-editing it online from the git interface
+i am on branch test2
